@@ -1,0 +1,9 @@
+{
+  "EnvironmentVariables": [],
+  "ConnectionReferences": [
+    {
+      "LogicalName": "msdyn_Dataverse",
+      "ConnectionId": "0f65f2ea60334262a561037ab48eaf42"
+    }
+  ]
+}
